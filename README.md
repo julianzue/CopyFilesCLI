@@ -10,6 +10,7 @@ Python should be installed to use this program!
 ## Requirements
 - colorama
 - pyfiglet
+- tkinter
 
 ## Platform
 - Windows
