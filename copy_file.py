@@ -1,5 +1,4 @@
 import os
-from traceback import print_tb
 from colorama import Fore, init
 import shutil
 from pyfiglet import Figlet
