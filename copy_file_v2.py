@@ -1,18 +1,10 @@
-from math import remainder
-from operator import pos
 import os
-from pickle import EMPTY_DICT
-from queue import Empty
-from traceback import print_tb
 from colorama import Fore, init
 import shutil
 from pyfiglet import Figlet
 from datetime import datetime
 import time as ti
-
-from tkinter import CENTER, filedialog
-
-
+from tkinter import filedialog
 
 init()
 
